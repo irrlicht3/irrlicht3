@@ -1,8 +1,12 @@
-forcing myself to code, so this is why this exists
-
-usually doing shit in html, css and js.
-
-mainly using a private cheatsheet so dont expect anything here :DDD
-
-
-hmu on discord if, for w/e reason, u want anything reality#0111
+```json
+{
+  "me": {
+    "name": "alex",
+    "age": "18",
+    "pronous": "any pronous"
+  },
+  "code": "js, py",
+  "info": "i suck at coding"
+}
+```
+<img src="https://i.imgur.com/FrydH9T.gif">
