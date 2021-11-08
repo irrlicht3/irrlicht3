@@ -9,4 +9,4 @@
   "info": "i suck at coding"
 }
 ```
-<img src="https://i.imgur.com/yuW2uYh.gif">
+<img src="https://i.imgur.com/yuW2uYh.gif"><img src="https://i.imgur.com/yuW2uYh.gif"><img src="https://i.imgur.com/yuW2uYh.gif"><img src="https://i.imgur.com/yuW2uYh.gif">
