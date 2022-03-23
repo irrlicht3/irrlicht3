@@ -3,7 +3,7 @@
   "me": {
     "name": "alina",
     "age": "19",
-    "pronous": "any pronouns"
+    "pronouns": "she/her"
   },
   "code": "js, py",
   "info": "i suck at coding"
