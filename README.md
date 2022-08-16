@@ -1,9 +1,9 @@
 ```json
 {
   "me": {
-    "name": "alex",
+    "name": "alina",
     "age": "19",
-    "pronouns": "they/them"
+    "pronouns": "she/they"
   },
   "code": "js, py",
   "info": "i suck at coding"
