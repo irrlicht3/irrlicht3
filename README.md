@@ -2,7 +2,7 @@
 {
   "me": {
     "name": "alina",
-    "age": "19",
+    "age": "20",
     "pronouns": "she/they"
   },
   "code": "js, py",
